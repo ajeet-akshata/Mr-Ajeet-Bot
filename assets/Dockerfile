@@ -1,4 +1,4 @@
-FROM ajeet-akshata/Mr-Ajeet-Bot:public
+FROM ajeet-akshata/mr-ajeet-bot:public
 
 RUN git clone https://github.com/ajeet-akshata/Mr-Ajeet-Bot /root/Mr-Ajeet-Bot
 WORKDIR /root/Mr-Ajeet-Bot/
