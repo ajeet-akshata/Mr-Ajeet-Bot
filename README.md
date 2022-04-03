@@ -25,7 +25,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
 
 ### Deploy 🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎r࿐ Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ajeet-akshata/Mr-Ajeet-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajeet-akshata/Mr-Ajeet-Bot)
 </div>
 
 ----
